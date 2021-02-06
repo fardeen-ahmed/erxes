@@ -92,11 +92,15 @@ Thank you to all our backers! 🙏 [[Become a backer](https://opencollective.com
 
 ## In-kind sponsors
 
-<a href="https://www.cloudflare.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/cloudflare.png" width="130px;" /></a><pre class="tab"></pre>
-<a href="https://cloud.google.com/developers/startups/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/cloud-logo.svg" width="130px;" /></a><pre class="tab"></pre>
-<a href="https://www.digitalocean.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/digitalocean.png" width="100px;" /></a><pre class="tab"></pre>
-<a href="https://www.transifex.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/transifex.png" width="100px;" /></a><pre class="tab"></pre>
-<a href="https://www.browserstack.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/browserstack.png" width="130px;" /></a><pre class="tab"></pre>
+<a href="https://www.cloudflare.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/cloudflare.png" width="130px;" /></a>
+
+<a href="https://cloud.google.com/developers/startups/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/cloud-logo.svg" width="130px;" /></a> 
+
+<a href="https://www.digitalocean.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/digitalocean.png" width="100px;" /></a> 
+
+<a href="https://www.transifex.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/transifex.png" width="100px;" /></a>
+
+<a href="https://www.browserstack.com/" target="_blank"><img src="https://s3.amazonaws.com/erxes/github/browserstack.png" width="130px;" /></a>
 
 ## Which license does erxes use?
 
